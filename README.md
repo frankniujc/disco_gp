@@ -94,10 +94,10 @@ We thank Alireza Makou, Jonas Schulz, Tam Truong, and Xiaoyan Xue (TU Darmstadt)
 🎉 This paper is accepted to EMNLP 2025! We will update the ACL Anthology bib entry after the proceeding release.
 
 ```bibtex
-@misc{yu2024discogp,
-      title={Dynamic Granularity in the Wild: Differentiable Sheaf Discovery with Joint Computation Graph Pruning}, 
+@misc{yu2025discogp,
+      title={Sheaf Discovery with Joint Computation Graph Pruning and Flexible Granularity}, 
       author={Lei Yu and Jingcheng Niu and Zining Zhu and Xi Chen and Gerald Penn},
-      year={2024},
+      year={2025},
       eprint={2407.03779},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
